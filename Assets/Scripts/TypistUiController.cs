@@ -100,7 +100,6 @@ public class TypistUiController : MonoBehaviour
         
         level = 0;
         mistakes = 0;
-        successfulSessions = 0;
         clocksTicking = false;
         gameState = GameState.STARTUP;
         talkQueue.Clear();
@@ -292,6 +291,7 @@ public class TypistUiController : MonoBehaviour
         type("\n");
         clocksTicking = false;
         gameState = GameState.GAME_OVER;
+        successfulSessions = 0;
         submittedTxt.value = gameOverText;
         SayAndType(gameOverText);
     }
@@ -331,6 +331,7 @@ public class TypistUiController : MonoBehaviour
             if (text == "reset")
             {
                 typistBotNumber++;
+                successfulSessions = 0;
                 reset();
                 // shuffle recipes
             }else if (text == "login" && gameState == GameState.STARTUP)
