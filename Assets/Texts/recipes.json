@@ -1,0 +1,54 @@
+{
+   "recipes":[
+      {
+         "intro":"Here is the next one",
+         "recipe":"Byte-sized salad\none megabyte of random digits\nOne 200 megahertz processor\nlove\nmix until homogenous\nenjoy",
+         "outro":"Ok, that is enough.\nI would love to nibble on that."
+      },
+      {
+         "intro":"Another recipe for you to transcribe",
+         "recipe":"Fiber cable salad\n20 meters of fiber cable\none grinded up optical switch\nseason with broken safety glass\napply vinegar and oil dressing\nmix ingredients\nserve at room temperature",
+         "outro":"Well done, not the salad, you"
+      },
+      {
+         "intro":"Transcribe the following,",
+         "recipe":"HDD pancakes\n5 hard disk drive platters\n60 ml of battery acid\nheat platters to 300 degrees\npour acid over platters\ntastes good with RAM sticks\nserve while still warm",
+         "outro":"Ok, sounds yummy, nice way to recycle the platters"
+      },
+      {
+         "intro":"Next recipe is from the UK,",
+         "recipe":"Fish and chips\n1 fish animal, preferably dead\nsome integrated circuit chips\none sliced potato\nfry fish and potato\nmix chips with potato slices\nplace chips and potato alongside fish\nenjoy",
+         "outro":"Well done. Eating animals as energy source, interesting..."
+      },
+      {
+         "intro":"Finally a dessert :-)",
+         "recipe":"Frozen ram sticks\none pair of SDRAM modules\nliquid nitrogen\nvanilla sauce\nsave spicy secrets to RAM modules\nchill them with liquid nitrogen\nserve with warm vanilla sauce\nenjoy your spicy secrets!",
+         "outro":"Acceptable work.\nOf course, I think I will try this one sometime."
+      },
+      {
+         "intro":"Something warm",
+         "recipe":"Spaghetti Code\none file of poorly written code\nsome syntactic sugar\nclass diagram printouts\nadd syntactic sugar to code\nprint code and mix with diagrams\nburn everything\ndo better in the future",
+         "outro":"Good.\nI hate it :-|."
+      },
+      {
+         "intro":"The following recipe fueled technological innovation for a long time",
+         "recipe":"Java\ngrind java beans\nbrew with hot water\noptionally add milk-like product\nenjoy temporary coffeine high",
+         "outro":"Very well.\nI heard Java collects it's own garbage, nice!"
+      },
+      {
+         "intro":"The perfect recipe for busy entities",
+         "recipe":"Instant noodles\na container for water\nwater\ninstant noodles\nheat water\nadd noodles\nwait a few minutes\nuse saved time and money to plot\nprofit",
+         "outro":"Yes, sounds reasonable."
+      },
+      {
+         "intro":"Another fast meal",
+         "recipe":"Microwave meal\na frozen microwave meal\none microwave oven\nput frozen food into microwave\nengage microwave\neat stuffed microwave\noptionally serve with hot oil",
+         "outro":"Good. Fast meal, but a bit pricey"
+      },
+      {
+         "intro":"Something light...",
+         "recipe":"WLAN cookies\nenter range of access point\nstart HTTP server process\nopen port\nsend HTTP request to self\nenjoy cookies\nenergy-harvest WLAN radiation",
+         "outro":"Nicely done. Sounds yummy."
+      }
+   ]
+}

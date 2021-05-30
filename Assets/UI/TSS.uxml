@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:TextField picking-mode="Ignore" name="main-text-field" multiline="true" style="height: 177.4px;" />
+    <ui:Button text="Speak" display-tooltip-when-elided="true" name="main-menu-button" />
+</ui:UXML>

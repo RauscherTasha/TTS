@@ -1,0 +1,78 @@
+#submitted-txt {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+    padding-bottom: 0;
+    width: 100%;
+    height: 85%;
+    -unity-font: url('/Assets/fonts/in-output/HomemadeApple-Regular.ttf');
+    font-size: 24px;
+}
+
+#submitted-txt #unity-text-input {
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    padding-top: 7%;
+    padding-left: 3%;
+    background-image: url('/Assets/Images/Backgrounds/recipe-bg.png');
+    -unity-background-scale-mode: scale-and-crop;
+    width: 100%;
+    height: 100%;
+    -unity-font: url('/Assets/fonts/in-output/HomemadeApple-Regular.ttf');
+    font-size: 28px;
+    color: rgb(72, 67, 58);
+    white-space: normal;
+}
+
+#input-txt #unity-text-input {
+    font-size: 30px;
+    -unity-font: url('/Assets/fonts/in-output/IndieFlower-Regular.ttf');
+    color: rgb(72, 67, 58);
+    width: 100%;
+    height: 100%;
+    white-space: normal;
+    background-color: rgb(243, 239, 231);
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+#input-txt #submit-btn {
+    display: none;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+#server-txt #unity-text-input {
+    background-color: rgb(0, 0, 0);
+    color: rgb(25, 150, 0);
+    font-size: 28px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    -unity-font: url('/Assets/fonts/server/OdibeeSans-Regular.ttf');
+    white-space: normal;
+    border-left-color: rgb(178, 178, 178);
+    border-right-color: rgb(178, 178, 178);
+    border-top-color: rgb(178, 178, 178);
+    border-bottom-color: rgb(178, 178, 178);
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+}
+
+#server-lbl {
+    -unity-font: url('/Assets/fonts/server/OdibeeSans-Regular.ttf');
+    -unity-font-style: normal;
+    font-size: 18px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: rgb(178, 178, 178);
+}
